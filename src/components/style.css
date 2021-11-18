@@ -1,0 +1,108 @@
+.nav {
+    color: white;
+}
+
+.loginForm {
+    margin-top: 50px;
+}
+
+.directionCards {
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.headingSpace {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.llist {
+    list-style-type: none;
+}
+
+a {
+    text-decoration-color: none !important;
+    text-decoration-line: none;
+    color: inherit;
+}
+a:hover {
+    color: skyblue;
+}
+
+.dashButton {
+    margin: 10px;
+    margin-top: 80px;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.myCard {
+    max-width: 600px;
+    min-width: 600px;
+}
+
+.myCardItems {
+    margin: auto;
+    width: 50%;
+    /* text-align: center; */
+}
+
+.bmt {
+    margin-top: 5px;
+}
+
+.mar {
+    margin-bottom: 10px;
+}
+
+.backGround {
+    background-color: #a9c9ff;
+    background-image: linear-gradient(180deg, #a9c9ff 0%, #ffbbec 100%);
+}
+
+.card {
+    background: rgb(239, 239, 245);
+    background: linear-gradient(
+        335deg,
+        rgba(239, 239, 245, 0.9822303921568627) 0%,
+        rgba(244, 241, 201, 1) 100%
+    );
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 2;
+}
+
+.topMargin {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.txt {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: large;
+}
+
+.txtSize {
+    font-size: 2ch;
+    width: 500px;
+    margin-left: 50px;
+    color: whitesmoke;
+}
+
+.bgImage {
+    background-image: url(./pexels-hejaar-4809608.jpg);
+    height: 750px;
+    margin-top: 50px;
+}
