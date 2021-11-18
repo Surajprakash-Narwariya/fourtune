@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fourtune/static/css/main.b279fd0f.chunk.css",
+    "main.js": "/fourtune/static/js/main.92401740.chunk.js",
+    "main.js.map": "/fourtune/static/js/main.92401740.chunk.js.map",
+    "runtime-main.js": "/fourtune/static/js/runtime-main.355a29f7.js",
+    "runtime-main.js.map": "/fourtune/static/js/runtime-main.355a29f7.js.map",
+    "static/js/2.d2737398.chunk.js": "/fourtune/static/js/2.d2737398.chunk.js",
+    "static/js/2.d2737398.chunk.js.map": "/fourtune/static/js/2.d2737398.chunk.js.map",
+    "index.html": "/fourtune/index.html",
+    "static/css/main.b279fd0f.chunk.css.map": "/fourtune/static/css/main.b279fd0f.chunk.css.map",
+    "static/js/2.d2737398.chunk.js.LICENSE.txt": "/fourtune/static/js/2.d2737398.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/fourtune/static/media/pexels-hejaar-4809608.0c3852f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.355a29f7.js",
+    "static/js/2.d2737398.chunk.js",
+    "static/css/main.b279fd0f.chunk.css",
+    "static/js/main.92401740.chunk.js"
+  ]
+}
