@@ -192,7 +192,7 @@ function DonateFood(props) {
 
                 <button
                     onClick={() => addressFinderAndSubmit(longitude, latitude)}
-                    disabled={latitude ? disable : !disable}
+//                     disabled={latitude ? disable : !disable}
                     className='btn btn-primary'
                 >
                     Submit
